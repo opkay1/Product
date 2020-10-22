@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: product
   labels:
-    app: Product
+    app: product
 spec:
   ports:
     - port: 8080
